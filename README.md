@@ -4,9 +4,10 @@ Norma is de Engelse benaming van het sterrenbeeld winkelhaak. Norma is geimpleme
 
 Norma Simple HTTP Server is geimplementeerd voor het netwerkpunt van een afnemer van de data. De gevalideerde vraag is namelijk een asynchroon proces waarbij de afnemer een gevalideerde vraag stelt en op een later moment het antwoord verkrijgt. 
 
-| :point_up:    | De software is "as-is".                                                         |
-|               | Er wordt geen ondersteuning op verleend en is niet voor bedoeld voor productie! |
-|---------------|:--------------------------------------------------------------------------------|
+**NOTE:**
+:warning: De software is "as-is".
+Er wordt geen ondersteuning op verleend en is niet voor bedoeld voor productie!
+---
 
 ## Installeren
 
